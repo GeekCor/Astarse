@@ -1,5 +1,5 @@
 {
-  "name": "PaladiumLauncher",
+  "name": "paladium",
   "version": "1.8.0",
   "productName": "Paladium Launcher",
   "description": "Modded Minecraft Launcher",
@@ -45,6 +45,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/GeekCo/Paladium.git"
+    "url": "git+https://github.com/dscalzi/GeekCor/Astarse.git"
   }
 }
